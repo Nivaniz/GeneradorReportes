@@ -14,11 +14,12 @@ Este programa es una aplicación de monitorización de temperaturas que utiliza 
 
 Ventana Principal:
 <p align="center">
-  <img src="https://github.com/Nivaniz/TableroKanban/blob/main/img/main.png" alt="Main Window" style="width: 50%; max-width: 200px;">
+  <img src="https://github.com/Nivaniz/GeneradorReportes/blob/main/IMG/MAIN.png" alt="Main Window" style="width: 50%; max-width: 200px;">
 </p>
 
-Archivo que genera de ejemplo:
-[Informe PDF](https://github.com/tu-usuario/tu-repositorio/blob/main/ruta-al-archivo/reporte.pdf)
+Archivo que genera de ejemplo: <br>
+[Informe PDF](https://github.com/Nivaniz/GeneradorReportes/blob/main/reporte.pdf) <br>
+[Informe HTML](https://github.com/Nivaniz/GeneradorReportes/blob/main/reporte.html)
 
 ## Ejecución 
 
@@ -34,10 +35,10 @@ Para poder utilizar el proyecto o modificarlo puedes:
 
 3.- **Ejecutarlo desde el archivo programa.py o desde el ejecutable adjunto**
 
-4.- Es necesario pre-instalar las dependencias, para la librería import pdfkit es necesario hacer un pip y posteriormente usar:
-### Linux: sudo apt-get install wkhtmltopdf
-### Windows: https://wkhtmltopdf.org/downloads.html#stable (Descargar y guardar en variables del sistema agregando \bin)
-### Reiniciar VSCODE
+4.- **Es necesario pre-instalar las dependencias, para la librería import pdfkit es necesario hacer un pip y posteriormente usar:**
+<br> Linux: sudo apt-get install wkhtmltopdf
+<br> Windows: https://wkhtmltopdf.org/downloads.html#stable (Descargar y guardar en variables del sistema agregando \bin)
+<br> Reiniciar VSCODE
 
 ## Autoría
 
